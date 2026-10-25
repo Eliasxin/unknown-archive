@@ -1,0 +1,53 @@
+
+name: Sync UNKNOWN public stories
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: unknown-notion-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Export public UNKNOWN stories
+        env:
+          NOTION_TOKEN: ${{ secrets.NOTION_TOKEN }}
+          NOTION_DATABASE_ID: ${{ secrets.NOTION_DATABASE_ID }}
+          NOTION_SERIAL_PAGE_ID: ${{ secrets.NOTION_SERIAL_PAGE_ID }}
+          NOTION_SHORTS_PAGE_ID: ${{ secrets.NOTION_SHORTS_PAGE_ID }}
+        run: python scripts/sync_notion.py
+
+      - name: Commit public output only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add -A -- data/chapters.json
+
+          if [ -d assets/notion ]; then
+            git add -A -- assets/notion/
+          fi
+
+          if ! git diff --cached --quiet; then
+            git commit -m 'Sync published UNKNOWN stories from Notion'
+            git push
+          else
+            echo 'No changes to commit.'
+          fi
