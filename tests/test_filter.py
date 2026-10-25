@@ -38,6 +38,21 @@ class PrivacyTest(unittest.TestCase):
         module.SHORTS_PAGE_ID = ''
         self.assertFalse(module.is_allowed(article(work='b'*32)))
         module.SHORTS_PAGE_ID = 'b'*32
+    def test_preflight_verifies_exact_work_code(self):
+        previous = module.notion
+        try:
+            module.notion = lambda method, path: {
+                'properties': {'作品識別碼': {
+                    'type': 'rich_text',
+                    'rich_text': [{'plain_text': 'the_distance_between_us'}]
+                }}
+            }
+            module.verify_work_page('a' * 32, 'the_distance_between_us', 'serial')
+            with self.assertRaisesRegex(RuntimeError, 'does not match'):
+                module.verify_work_page('a' * 32, 'unknown_shorts', 'shorts')
+        finally:
+            module.notion = previous
+
     def test_rich_text_no_unintended_link(self):
         run=[{'plain_text':'普通文字', 'type':'text','text':{'content':'普通文字'},'annotations':{}}]
         self.assertIsNone(module.rich(run)[0]['href'])

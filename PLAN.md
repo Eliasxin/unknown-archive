@@ -26,3 +26,9 @@ Status: **first version built, waiting for actual Notion work page ID and releas
 2. Verify the approximate 47 shorts individually or in bulk point via `所屬作品` Relation to **短篇集**; currently that work page shows the inverse chapter relation as Empty. The already verified serial chapters point to The Distance Between Us. `故事篇章` is not required.
 3. Enable Actions with both page IDs and validate counts with at most one intentional test publication if needed.
 4. Deploy to Cloudflare Pages and inspect real content; replace placeholder SVGs with licensed free stock photography before final publishing.
+
+## Work page URL IDs received (2026-10-26)
+
+- `NOTION_SERIAL_PAGE_ID`: `4049214c53e380dca1bbf234e4a8642f` (the `v=` parameter is a view ID and must not be used).
+- `NOTION_SHORTS_PAGE_ID`: `4049214c53e3804b8b24d93a9fd0aa87`.
+- Preflight now validates both work pages `作品識別碼` against `the_distance_between_us` and `unknown_shorts` before querying public chapters.

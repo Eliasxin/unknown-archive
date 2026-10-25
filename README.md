@@ -39,13 +39,13 @@ SAKURAI_TK 的非官方二次創作閱讀網站，採用純靜態 HTML/CSS/JavaS
 
 1. 在 GitHub 建立新公開儲存庫，建議名稱：`unknown-archive`。
 2. 上傳本 ZIP 解壓縮的**全部檔案**到新 repo 的根目錄；**包含隱藏路徑 `.github/workflows/sync-notion.yml`**。若 GitHub 網頁拖曳沒有上傳隱藏檔，請手動建立相同檔案路徑並貼入 YAML。
-3. 到 `https://github.com/<帳號>/unknown-archive/settings/secrets/actions` → New repository secret，新增**三個必填 Secret + 一個選填**：
+3. 到 `https://github.com/<帳號>/unknown-archive/settings/secrets/actions` → New repository secret，新增**四個 Secret**（這次兩個作品頁面均已取得）：
    - `NOTION_TOKEN`：專用 Notion Integration 的 Token；勿貼到聊天、JS 或 GitHub 公開檔案。
    - `NOTION_DATABASE_ID`：共用章節資料庫 ID（之前 Top Gun 用的是 `3f59214c53e3805f8153fab9b3367d2d`，**確認仍是同一個才使用**）。
-   - `NOTION_SERIAL_PAGE_ID`：在「我的作品」打開 **The Distance Between Us** 那一筆作品，Copy link；取頁面 URL 的 **32 位頁面 ID**（不是資料庫 ID，也不是 `v=` view ID）。
-   - `NOTION_SHORTS_PAGE_ID`：在「我的作品」打開 **短篇集**，確認 `作品識別碼=unknown_shorts`，複製作品頁面連結取其中的 32 位 Page ID；即使短篇尚未全部建立，也可以先設定此 Secret。
+   - `NOTION_SERIAL_PAGE_ID`：`4049214c53e380dca1bbf234e4a8642f`（使用者提供的 The Distance Between Us URL 所解析的 32 位頁面 ID；**不是** URL 的 `v=` 檢視 ID）。
+   - `NOTION_SHORTS_PAGE_ID`：`4049214c53e3804b8b24d93a9fd0aa87`（使用者提供的短篇集作品 URL 所解析的 32 位頁面 ID）。
 4. 在 Notion 分享「章節資料庫」給新的 Integration；建議同時連接「我的作品」，方便之後擴充。此版本依 Relation Page ID 篩選，不會讀取草稿內文。
-5. 開啟 `Actions → Sync UNKNOWN public stories → Run workflow → main`。目前十章都是草稿且網站未公開，因此輸出 `0` 章是預期結果；之後發布測試篇再核對關聯及章數。
+5. 開啟 `Actions → Sync UNKNOWN public stories → Run workflow → main`。新版同步會先讀取並**驗證兩個作品頁面的 `作品識別碼`** 是否分別為 `the_distance_between_us` / `unknown_shorts`；這需要 Integration 存取「我的作品」資料庫。十章目前都是草稿且網站未公開，因此匯出 `0` 章是預期結果；之後發布測試篇再核對關聯及章數。
 
 **注意**：這是新網站自己的 GitHub Actions 和 Secrets，與已完成的 Top Gun / 其他網站互不共用、互不修改。
 
@@ -83,9 +83,9 @@ SAKURAI_TK 的非官方二次創作閱讀網站，採用純靜態 HTML/CSS/JavaS
 - [ ] 三個 Actions Secrets 已設定
 - [ ] Notion Integration 已授權共用章節資料庫
 - [x] The Distance Between Us 截圖已確認十章的 `章節順序`、連載類型及識別碼
-- [ ] 填入 `NOTION_SERIAL_PAGE_ID`，確認值來自獨立作品頁面（不是資料庫）
+- [x] 已取得 `NOTION_SERIAL_PAGE_ID` 的 URL 識別碼；待 GitHub Secrets 寫入與第一次同步驗證其 `作品識別碼`
 - [x] 獨立短篇分類作品已建立：作品名稱「短篇集」、識別碼 `unknown_shorts`
 - [ ] 約 47 篇短篇的「所屬作品」正確連到「短篇集」
-- [ ] 設定「短篇集」的真正 Notion Page ID 至 `NOTION_SHORTS_PAGE_ID`
+- [x] 已取得 `NOTION_SHORTS_PAGE_ID` 的 URL 識別碼；待 GitHub Secrets 寫入與第一次同步驗證其 `作品識別碼`
 - [ ] 第一次 GitHub Actions 成功，公開章數符合預期
 - [ ] Cloudflare Pages 部署成功，檢查手機版、閱讀器、18+ 與正文超連結

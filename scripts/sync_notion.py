@@ -226,6 +226,23 @@ def publication_date(props: dict, page: dict) -> str:
     return str(page.get('created_time') or '')[:10]
 
 
+def verify_work_page(page_id: str, expected_code: str, label: str) -> None:
+    """Fail early if a configured page ID is actually a view/database/other work.
+
+    This preflight runs even when every related chapter is an unpublished draft.
+    Integration must have Read access to the independent work records.
+    """
+    page = notion('GET', 'pages/' + page_id)
+    props = page.get('properties') or {}
+    found_code = plain(prop(props, '作品識別碼')).strip()
+    if found_code != expected_code:
+        raise RuntimeError(
+            f'{label} Page ID does not match the expected 作品識別碼 ({expected_code}); '
+            'check that this is the individual work page, not a database view or a different work.'
+        )
+    print(f'Notion work verified: {label} ({found_code})')
+
+
 def export() -> None:
     if not TOKEN or not DATABASE_ID or not SERIAL_PAGE_ID:
         raise RuntimeError('Please set required Secrets: NOTION_TOKEN, NOTION_DATABASE_ID, NOTION_SERIAL_PAGE_ID')
@@ -234,6 +251,11 @@ def export() -> None:
         raise RuntimeError('Configured Notion IDs must be valid 32-character hex IDs')
     if SHORTS_PAGE_ID and SHORTS_PAGE_ID == SERIAL_PAGE_ID:
         raise RuntimeError('NOTION_SHORTS_PAGE_ID must be different from NOTION_SERIAL_PAGE_ID')
+
+    # Verify the two *actual work pages*, even if all chapters are still drafts.
+    verify_work_page(SERIAL_PAGE_ID, 'the_distance_between_us', 'The Distance Between Us')
+    if SHORTS_PAGE_ID:
+        verify_work_page(SHORTS_PAGE_ID, 'unknown_shorts', '短篇集')
 
     records = paged_blocks('databases/' + DATABASE_ID + '/query', 'POST')
     eligible = [x for x in records if is_allowed(x)]
