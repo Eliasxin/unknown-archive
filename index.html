@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#17232d">
+  <meta name="description" content="SAKURAI_TK《關於未知的我們》二次創作檔案。閱讀 The Distance Between Us 連續故事與獨立短篇集。">
+  <title>關於未知的我們 — UNKNOWN | SAKURAI_TK</title>
+  <link rel="icon" type="image/svg+xml" href="./favicon.svg">
+  <link rel="preload" href="./assets/hero-city.svg" as="image" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css?v=1">
+  <script defer src="./config.js"></script>
+  <script defer src="./app.js?v=1"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">跳至主要內容</a>
+  <header class="site-header" id="header">
+    <a class="site-brand" href="#home" aria-label="關於未知的我們首頁">
+      <span class="brand-mark" aria-hidden="true">U<span class="mark-dot">.</span></span>
+      <span class="brand-word"><strong>UNKNOWN</strong><small>關於未知的我們</small></span>
+    </a>
+    <button class="menu-toggle" id="menuToggle" aria-label="展開選單" aria-expanded="false" aria-controls="mainNav"><span></span><span></span><span></span></button>
+    <nav class="main-nav" id="mainNav" aria-label="主要導覽">
+      <a href="#home" data-nav="home">首頁</a>
+      <a href="#series/serial" data-nav="serial">The Distance Between Us</a>
+      <a href="#series/shorts" data-nav="shorts">獨立短篇集</a>
+      <a href="#about" data-nav="about">關於本站</a>
+    </nav>
+    <a href="#series/shorts" class="header-cta">閱讀故事 <span aria-hidden="true">↗</span></a>
+  </header>
+
+  <main id="main">
+    <section id="homeView" class="home-page">
+      <section class="hero" aria-labelledby="heroTitle">
+        <div class="hero-art" aria-hidden="true"></div>
+        <div class="hero-grain" aria-hidden="true"></div>
+        <div class="hero-vignette" aria-hidden="true"></div>
+        <div class="hero-inner shell">
+          <div class="hero-copy">
+            <div class="eyebrow"><span class="eyebrow-rule"></span> SAKURAI_TK / FICTION ARCHIVE</div>
+            <p class="hero-kicker">THE STORIES WE NEVER TOLD</p>
+            <h1 id="heroTitle">關於未知的我們</h1>
+            <p class="hero-script" lang="en">Unknown<span class="script-dot">.</span></p>
+            <p class="hero-quote">我們之間，<br>那些還沒說出口的事。</p>
+            <div class="hero-small-rule"></div>
+            <p class="hero-english">BETWEEN WHAT IS KNOWN<br>AND WHAT REMAINS UNSAID.</p>
+          </div>
+          <div class="hero-edge" aria-hidden="true"><span>城市很大，</span><span>而我們隔著一段距離。</span></div>
+        </div>
+        <div class="hero-bottom shell" aria-hidden="true"><span>01 / TWO WAYS TO READ</span><span>SCROLL TO STORIES <span class="down-arrow">↓</span></span></div>
+      </section>
+
+      <section class="home-collections shell" id="collections">
+        <div class="collection-intro">
+          <div><p class="section-label"><span class="label-glyph">✦</span> THE ARCHIVE / 故事目錄</p><h2>有些距離，<em>需要用故事丈量。</em></h2></div>
+          <p>一段必須循序閱讀的旅程，<br>與那些散落在日常裡的獨立篇章。</p>
+        </div>
+        <div class="feature-grid">
+          <a href="#series/serial" class="feature-card feature-serial" aria-label="前往 The Distance Between Us 連載">
+            <div class="feature-image"><img src="./assets/serial-window.svg" alt="雨夜裡隔著窗的暖色燈光" loading="lazy"></div>
+            <div class="feature-shade"></div>
+            <div class="feature-content"><div class="feature-top"><span>01 / FEATURED SERIAL</span><span class="feature-icon" aria-hidden="true">↗</span></div><div class="feature-description"><p class="feature-type">CONTINUOUS STORY · 連續劇情</p><h3>The Distance<br>Between Us</h3><p>從第一章開始，循著相同的時間線，<br>走近那些未曾說出口的心事。</p><span class="feature-action">從第一章開始閱讀 <span aria-hidden="true">→</span></span></div></div>
+          </a>
+          <a href="#series/shorts" class="feature-card feature-shorts" aria-label="前往獨立短篇集">
+            <div class="feature-image"><img src="./assets/short-stories.svg" alt="暖光映照的書桌與開啟的書" loading="lazy"></div>
+            <div class="feature-shade"></div>
+            <div class="feature-content"><div class="feature-top"><span>02 / SHORT STORY COLLECTION</span><span class="feature-icon" aria-hidden="true">↗</span></div><div class="feature-description"><p class="feature-type">STANDALONE STORIES · 獨立短篇</p><h3>獨立短篇集</h3><p>不同的時刻，不同的情緒。<br>每一篇都能從自己的故事開始。</p><span class="feature-action">瀏覽全部短篇 <span aria-hidden="true">→</span></span></div></div>
+          </a>
+        </div>
+        <p class="archive-note" id="homeCounts">已公開的文章由 Notion 同步；未發布或未勾選網站公開的內容不會顯示。</p>
+      </section>
+      <section class="home-ending shell" aria-label="結語"><span class="ending-rule"></span><p>「 我們都在尋找，一個能夠靠近的理由。 」</p><span class="ending-en">SOME DISTANCES ARE MEANT TO BE CROSSED.</span></section>
+    </section>
+    <section id="subView" class="sub-view" hidden aria-live="polite"></section>
+  </main>
+
+  <footer class="site-footer"><div class="shell footer-layout"><div><p class="footer-logo">UNKNOWN <span>·</span> SAKURAI_TK</p><p>故事或許沒有答案，<br>但總會有人記得。</p></div><div class="footer-links"><a href="#series/serial">The Distance Between Us</a><a href="#series/shorts">獨立短篇集</a><a href="#home">回到首頁 ↑</a></div></div><div class="shell footer-bottom"><span>© <span id="footerYear">2026</span> SAKURAI_TK · 非官方二次創作檔案</span><span>NOT AFFILIATED WITH THE ORIGINAL PRODUCTION</span></div></footer>
+
+  <dialog id="ageDialog" aria-labelledby="ageTitle" aria-describedby="ageDescription"><div class="dialog-inner"><p class="section-label">CONTENT NOTICE / 閱讀分級</p><h2 id="ageTitle">18+ 成人分級內容</h2><p id="ageDescription">這篇文章標示為 18+，請確認已達所在地法定成年年齡，再決定是否繼續閱讀。</p><div class="dialog-actions"><button class="ghost-button" id="ageCancel" type="button">返回目錄</button><button class="primary-button" id="ageContinue" type="button">我已成年，繼續閱讀</button></div></div></dialog>
+  <noscript><p class="noscript">請啟用 JavaScript，才能瀏覽已公開的文章。</p></noscript>
+</body>
+</html>
