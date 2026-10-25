@@ -2,7 +2,7 @@
 """Read-only Notion exporter for SAKURAI_TK's UNKNOWN fiction archive.
 
 Privacy gates (all required):
-1. Page is related to the *exact* configured serial/shorts work page.
+1. Page is related to one of the *two required* configured work pages.
 2. 發布狀態 is 已發布 or 已發佈.
 3. 網站公開 is checked.
 No 故事篇章 is required: The Distance Between Us uses an independent Notion work relation.
@@ -35,7 +35,7 @@ VERSION = '2022-06-28'
 MAX_IMAGE_BYTES = 10 * 1024 * 1024
 
 # The exact Notion relation is the source of truth, never guessed from article titles.
-# SHORTS_PAGE_ID is optional until standalone stories are ready.
+# Both work IDs are required: a missing shorts Secret must fail visibly, not silently skip that collection.
 SLUG_PATTERN = re.compile(r'[a-z0-9][a-z0-9_-]*\Z')
 
 
@@ -128,7 +128,7 @@ def relation_group(props: dict) -> str | None:
     """Map the exact 所屬作品 relation, never infer from story title or CP.
 
     The serial relation points to the independent work The Distance Between Us.
-    Standalone stories can point to another work once SHORTS_PAGE_ID is known.
+    Standalone stories must point to the 短篇集 work page.
     """
     relation = prop(props, '所屬作品')
     if relation.get('type') != 'relation':
@@ -136,7 +136,7 @@ def relation_group(props: dict) -> str | None:
     ids = {normalize_id(x.get('id', '')) for x in relation.get('relation') or []}
     if SERIAL_PAGE_ID and SERIAL_PAGE_ID in ids:
         return 'serial'
-    if SHORTS_PAGE_ID and SHORTS_PAGE_ID in ids:
+    if SHORTS_PAGE_ID in ids:
         return 'shorts'
     return None
 
@@ -244,20 +244,31 @@ def verify_work_page(page_id: str, expected_code: str, label: str) -> None:
 
 
 def export() -> None:
-    if not TOKEN or not DATABASE_ID or not SERIAL_PAGE_ID:
-        raise RuntimeError('Please set required Secrets: NOTION_TOKEN, NOTION_DATABASE_ID, NOTION_SERIAL_PAGE_ID')
-    ids = (DATABASE_ID, SERIAL_PAGE_ID) + ((SHORTS_PAGE_ID,) if SHORTS_PAGE_ID else ())
+    required = {
+        'NOTION_TOKEN': TOKEN,
+        'NOTION_DATABASE_ID': DATABASE_ID,
+        'NOTION_SERIAL_PAGE_ID': SERIAL_PAGE_ID,
+        'NOTION_SHORTS_PAGE_ID': SHORTS_PAGE_ID,
+    }
+    missing = [name for name, value in required.items() if not value]
+    if missing:
+        raise RuntimeError('Missing required GitHub Actions Secrets: ' + ', '.join(missing))
+    ids = (DATABASE_ID, SERIAL_PAGE_ID, SHORTS_PAGE_ID)
     if any(len(x) != 32 or not re.fullmatch(r'[a-f0-9]{32}', x) for x in ids):
         raise RuntimeError('Configured Notion IDs must be valid 32-character hex IDs')
-    if SHORTS_PAGE_ID and SHORTS_PAGE_ID == SERIAL_PAGE_ID:
+    if SHORTS_PAGE_ID == SERIAL_PAGE_ID:
         raise RuntimeError('NOTION_SHORTS_PAGE_ID must be different from NOTION_SERIAL_PAGE_ID')
 
     # Verify the two *actual work pages*, even if all chapters are still drafts.
     verify_work_page(SERIAL_PAGE_ID, 'the_distance_between_us', 'The Distance Between Us')
-    if SHORTS_PAGE_ID:
-        verify_work_page(SHORTS_PAGE_ID, 'unknown_shorts', '短篇集')
+    verify_work_page(SHORTS_PAGE_ID, 'unknown_shorts', '短篇集')
 
     records = paged_blocks('databases/' + DATABASE_ID + '/query', 'POST')
+    # Show relation-only counts (including drafts) without reading or printing private bodies.
+    relation_counts = {
+        'serial': sum(relation_group(x.get('properties') or {}) == 'serial' for x in records),
+        'shorts': sum(relation_group(x.get('properties') or {}) == 'shorts' for x in records),
+    }
     eligible = [x for x in records if is_allowed(x)]
     stories = []
     keys = set()
@@ -330,12 +341,12 @@ def export() -> None:
             if f.is_file() and re.fullmatch(r'[a-f0-9]{32}\.(?:jpg|png|webp|gif)', f.name) and f.name not in keep:
                 f.unlink()
     print(f'Notion database records: {len(records)}')
+    print(f'Related serial records (including drafts, metadata only): {relation_counts["serial"]}')
+    print(f'Related standalone short story records (including drafts, metadata only): {relation_counts["shorts"]}')
     print(f'Eligible public UNKNOWN records matching configured work IDs: {len(eligible)}')
     print(f'Exported public serial chapters: {sum(x["work"] == "serial" for x in stories)}')
     print(f'Exported public standalone short stories: {sum(x["work"] == "shorts" for x in stories)}')
     print('Unpublished and website-private article bodies were NOT read or exported.')
-    if not SHORTS_PAGE_ID:
-        print('Independent shorts sync is disabled until NOTION_SHORTS_PAGE_ID is configured.')
 
 
 if __name__ == '__main__':
