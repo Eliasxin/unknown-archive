@@ -23,7 +23,6 @@
   const serialName = CONFIG.serialTitle || 'The Distance Between Us';
   const shortName = CONFIG.shortTitle || '獨立短篇集';
   const serialStatus = CONFIG.serialStatus || '連載';
-  const showFutureTitles = CONFIG.showFutureChapterTitles === true;
   const pad = n => String(n).padStart(2, '0');
   const safeText = t => String(t == null ? '' : t).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const labelCP = item => Array.isArray(item.cp) && item.cp.length ? item.cp.join('、') : '未標示 CP';
@@ -70,18 +69,15 @@
     setTitle(serialName);
     const first = items[0];
     const last = items.find(x => x.slug === state.lastSerial) || null;
-    const reveal = showFutureTitles;
     el.sub.innerHTML = header('serial', serialName, '01 / FEATURED SERIAL · 連續劇情', './assets/serial-window.svg') +
       `<div class="inner-shell series-content">
         <div class="status-row"><span class="tiny-tag">${safeText(serialStatus)}</span><span class="plain">${items.length} 章已公開 · 依連續劇情順序閱讀</span></div>
         <div class="series-cta-row"><button id="startSerial" class="primary-button" type="button" ${first ? '' : 'disabled'}>從第一章開始閱讀 <span>→</span></button>${last ? `<button class="ghost-button" type="button" id="resumeSerial">接續閱讀 ${safeText(chapterName(last))} →</button>` : ''}</div>
         <div class="series-header"><h2>章節目錄</h2><span class="small-meta">${items.length} CHAPTERS</span></div>
-        <div class="chapter-board"><div class="chapter-head"><span>THE CHAPTERS / 連載目錄</span><button type="button" id="toggleTitles" aria-pressed="${reveal}">${reveal ? '隱藏章節篇名' : '顯示章節篇名'}</button></div><div id="chapterRows"></div></div>
+        <div class="chapter-board"><div class="chapter-head"><span>THE CHAPTERS / 連載目錄</span></div><div id="chapterRows"></div></div>
       </div>`;
     document.getElementById('startSerial').addEventListener('click', () => first && openItem(first));
     if (last) document.getElementById('resumeSerial').addEventListener('click', () => openItem(last));
-    let showAll = reveal;
-    const toggle = document.getElementById('toggleTitles');
     const rows = document.getElementById('chapterRows');
     function paint() {
       rows.replaceChildren();
@@ -93,12 +89,10 @@
       for (const item of items) {
         const b = document.createElement('button'); b.className = 'chapter-row'; b.type = 'button';
         const isRead = visited(item);
-        const fullTitle = showAll || isRead || item.slug === state.lastSerial;
-        b.innerHTML = `<span class="chapter-number">${pad(item.chapterNumber)}</span><span class="chapter-main"><span class="chapter-title">${safeText(fullTitle ? item.title : chapterName(item))}</span>${fullTitle && item.subtitle ? `<span class="chapter-subtitle">${safeText(item.subtitle)}</span>` : ''}${isRead ? '<span class="chapter-read">曾經閱讀</span>' : ''}${isAdult(item) ? '<span class="chapter-adult">18+</span>' : ''}</span><span class="chapter-last">${safeText(dateText(item.publishedAt))}</span><span class="chapter-arrow">↗</span>`;
-        b.setAttribute('aria-label', `閱讀 ${chapterName(item)}`); b.addEventListener('click', () => openItem(item)); rows.append(b);
+        b.innerHTML = `<span class="chapter-number">${pad(item.chapterNumber)}</span><span class="chapter-main"><span class="chapter-title">${safeText(item.title || chapterName(item))}</span>${item.subtitle ? `<span class="chapter-subtitle">${safeText(item.subtitle)}</span>` : ''}${isRead ? '<span class="chapter-read">曾經閱讀</span>' : ''}${isAdult(item) ? '<span class="chapter-adult">18+</span>' : ''}</span><span class="chapter-last">${safeText(dateText(item.publishedAt))}</span><span class="chapter-arrow">↗</span>`;
+        b.setAttribute('aria-label', `閱讀 ${item.title || chapterName(item)}`); b.addEventListener('click', () => openItem(item)); rows.append(b);
       }
     }
-    toggle.addEventListener('click', () => { showAll = !showAll; toggle.setAttribute('aria-pressed', String(showAll)); toggle.textContent = showAll ? '隱藏章節篇名' : '顯示章節篇名'; paint(); });
     paint();
   }
   function showShorts() {
