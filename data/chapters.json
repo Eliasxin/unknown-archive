@@ -1,6 +1,6 @@
 {
   "site": "UNKNOWN — 關於未知的我們",
-  "updatedAt": "2026-10-25T19:26:41.950129+00:00",
+  "updatedAt": "2026-10-25T19:45:46.801888+00:00",
   "chapters": [
     {
       "work": "serial",
@@ -2437,6 +2437,1288 @@
           "runs": [
             {
               "text": "因為他知道，魏謙在的地方也是他的家，他的心就是魏之遠的家。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "shorts",
+      "slug": "here_you_are",
+      "title": "有你在",
+      "subtitle": "",
+      "chapterNumber": 1,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "短篇",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一次魏謙提早完成實驗，想著乾脆難得去公司接小遠下班好了，於是背起背包並將眼鏡放進背包緩步朝著公司走去。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "抵達公司時魏謙發現公司外的草坪突然十分吸引自己，陽光、微風都催促著，於是魏謙放下背包充當枕頭躺了下去。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "當魏之遠剛出會議室拿出手機才發現距離魏謙給自己傳訊息表示已到公司樓下，早已過了半小時已久。為了不讓感冒才剛好的人又染上感冒於是兩步並三步的朝著一樓奔去。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "踏出大門時就看到魏謙難得放鬆的躺在草坪上休息著，這景象讓原本心急如焚的魏之遠也神奇的慢了下來，緩步的朝著躺在草地上的魏謙走去。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥，起來了，別又感冒了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙其實早就聽到魏之遠的腳步聲但沒有馬上反應，而是等到魏之遠在自己身旁蹲下時才睜開眼睛。一雙慵懶的眼對上只會盈滿自己身影的桃花眼，這讓魏謙鬼使神差的伸出手摸著魏之遠的臉龐。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「有你在，怎麼會感冒？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "shorts",
+      "slug": "your_are_our_baby",
+      "title": "妳是我們的寶貝",
+      "subtitle": "",
+      "chapterNumber": 2,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "短篇",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這是，小寶得知兩人在一起後五分鐘的場景。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "但容我們往前倒帶兩小時，小寶剛結束工作要回家當沙發馬鈴薯跟哥哥寶的時候，一打開門看到一個在廚房認真的煮晚餐，另一個則是當無尾熊掛在另一人身上，時不時會搗亂煮菜那人，或者是偷菜來吃。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……吼！你們都偷偷來！有什麼是我不能知道的嗎！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "聽到小寶的聲音突然出現在飯廳，原本還在搶奪鍋鏟的兩人瞬間跳開，一個急忙開冰箱找飲料拿給喝，一個則是趕緊繼續炒菜。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙拿著飲料給小寶喝並且試圖轉移話題，「小寶你聽我說。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「才不要！我已經不是小孩子了！大哥你每次都瞞著我！之前生病也是！我都是二哥通知我才知道的！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "正當魏謙想要伸手拉住小寶的手時，小寶直接賭氣的甩開她大哥的手，像當年一樣直接頭也不回的離家出走。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "因為過於錯愕導致魏謙維持著手伸向遠方呆愣的站在原地，而魏之遠將該準備的菜都用好放上餐桌保溫後，走到魏謙身邊一發不語的看著他冷凝的側顏。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「要我去追嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……不用，她大了等等自然就會回來了……」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙嘆了口氣，頹廢的蹲下身，頭痛的捏著鼻梁思考著現下這情況該如何跟從小就疼到大的妹妹解釋。而站在一旁的魏之遠深知自己什麼話都不能說，於是安靜的站在一旁看著，等待著魏謙下一步的指令。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "（某魏大女明星肚子餓想念哥哥煮的菜就默默跑回家，躡手躡腳的踏進客廳）",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一進門看到臉色難看的大哥坐在客廳沙發上對著電視發呆，而二哥則是坐在一旁默默地撥著自己喜歡吃的栗子。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「大哥……你跟二哥在一起了對不對？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……對。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「那、會不會以後都沒有人疼我了？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "說到這邊原本已經平復心情的魏離離小姐，眼睛水龍頭又被開啟，直接坐在地上嚎啕大哭，惹得兩位哥哥抱著這位從小捧在手心裡的妹妹。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「不會，我們都在妳身邊，一直疼妳、愛妳。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "shorts",
+      "slug": "llike_movie",
+      "title": "對我們來說，一切都像是電影情節",
+      "subtitle": "",
+      "chapterNumber": 3,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "短篇",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "嘿魏謙，",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "今天是我離開你的第21天。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "從抵達美國後的每一刻每一秒我都在反思我當初為何會如此衝動，每一次反思都會回到那破碎的酒杯開始想起。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "每一段與你的回憶對我來說都是場美好的電影，",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "每一句與你的對話對我來說都是首美好的音樂。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "最後結束每日的反思後，我仍然覺得不後悔愛上你。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "即便你我最終是場悲劇。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "喂，這是你回到我身邊的第831天。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "從那個破碎的眼鏡和酒杯至今也過了兩千多天，嘖，我也不是什麼悲秋傷春的人，但每一次聽你說著在美國或是以前的事情時，我的心都會不由自主的疼痛著。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "但沒關係，你想要的從現在起，我給你。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "雖然我的愛不及於你，但我努力跟上你的腳步，努力的讓自己更加地愛上你。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "我會為了你，努力長命百歲。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "因為你我的故事，會是場美好的電影。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "shorts",
+      "slug": "hurt",
+      "title": "受傷",
+      "subtitle": "",
+      "chapterNumber": 4,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "短篇",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": []
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙面無表情的半跪在魏之遠面前幫忙換藥，不管魏之遠怎麼逗弄都無法換來一個眼神。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥你別生氣……你沒事比較重要啊……」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "聽到魏之遠的話，魏謙狠狠的將最後一個結用力的拉緊，換來魏之遠吃痛的驚呼。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你不是說我是你的全部，那麼你沒想過若你就這樣走了我怎麼辦？你怎麼這麼傻的會幫我去擋呢？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙手掐著鼻梁忍著怒氣說著，而這反應讓魏之遠瞬間後悔自己前幾秒說出來的話，急忙上前用完好的手將人擁入懷。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「抱歉我是傻子，我再也不會做傻事讓我提早離開你了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「既然你知道你是傻子，那麼給我坐下，我去準備晚餐，給我好好休息。」魏謙小力的肘擊魏之遠完好的地方，換來一聲感動的嘆息。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙用一臉無藥可救的臉看著被攻擊還一臉滿足的魏之遠。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你這種怪咖除了我還有誰會要。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "聽到這難得的撒嬌，魏之遠迅速的站了起來想趁著這個氣氛想要討個甜頭，「哥，看在我這怪咖的份上可以給我一個吻嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙埋進冰箱裡找尋今日的食材，完全不想理身後那隻又再發情的大型狗，直到拿好食材轉身要走進廚房時被攔了下來。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「幹嘛？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「我要吻你。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「滾。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「不滾，我要親。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「閃邊去。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠看著魏謙默默開始轉紅的耳尖，決定迅速的低下身偷了個吻，趁著閻羅王還沒變身前趕緊乖乖奔回客廳當乖寶寶看電視。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "因為受傷而被勒令不能幫忙，魏之遠只好乖乖待在客廳百無聊賴的轉著電視，但轉來轉去還是沒有在廚房裡忙碌的那人好看，於是魏之遠悄悄的反坐在飯廳椅子上，下巴靠著椅背看著他這一生存在的意義。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "對於魏之遠來說，魏謙就是他的光、他生存的目的，也是養育他成人的大家長。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "以前什麼事情只要有魏謙在，魏之遠什麼都不用怕，因為魏謙就是魏之遠的避風港。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "而現在長大成人了，魏之遠一直努力讓自己變得更強大，期許自己能成為魏謙的避風港。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不過這平靜的時間並沒有維持太久，身為魏家第四個家人的譚于先生拿著各種補品開門走了進來。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「小遠有沒有好多了？我怕你哥不會包紮還特地提早下班過來看看，不過看起來好像不用我幫忙了？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「謝謝三胖哥關心，哥本來就很會包紮你又不是不知道，你其實是想蹭飯的吧？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哎呀講那麼白幹嘛？傷患好好坐著不要動啊，我來幫你哥的忙……欸魏謙我來啦！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「死胖子你來幹嘛？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「幫你啊？怕你失手讓小遠的傷更重啊。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「去你的給我留點口德行不行？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "譚于幫忙拿著菜走出廚房，經過魏家孩子們的身高牆，看到魏之遠的身高時突然發現一件事情。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「行行行，你說的都對，不過這也太巧，過沒幾天就是小遠的生日，而且是正式的十進位，逢九必出事這個玄學不得不信欸。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「少烏鴉嘴吧你，這麼多菜還沒辦法塞住你的嘴嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙邊嗆譚于邊餵著魏之遠吃飯，自己則是趁著魏之遠咀嚼的時候囫圇吞棗的吃了一些，這換來魏之遠譴責的眼神，並不願意接受魏謙下一輪的餵食。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥，你先吃飽再餵我，我餓得了，你胃不好慢慢吃。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「慢慢吃的話等等你那天兵妹妹就要回來消滅這一桌子的菜，到時候我們都只能喝泡沫紅茶了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "還沒說完了字，一聲哥從門外傳來。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「大哥～二哥～我回來了！二哥有沒有好點啊？居然傻傻的幫無敵鐵金剛大哥擋掉落的廣告看板，你真英雄！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「嗯！我超厲害！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這兩個小的像是在說相聲的模樣，讓正默默吃飯的魏謙不禁翻了翻白眼。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "由於難得全家都在，譚于直接宣布全家一起去釣魚，但這馬上引來魏謙的不滿。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「小遠還在受傷你讓一個傷患去釣魚幹嘛？找死啊？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「沒事啦哥，我在岸上看你們釣魚就好了啊。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙聽到魏之遠的話，隨即轉身瞪著無辜看著自己的魏之遠，「你有想清楚嗎？我們常去的那邊很無聊，沒有下水只能在岸上乾曬太陽不能做什麼很無聊。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠聽到魏謙難得如此話多的勸自己不要答應去釣魚，心中的氣球彷彿快衝爆似的滿盈魏之遠的胸膛。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「沒事的哥，我可以看著你的背影一整天都沒問題，我也會乖乖戴好漁夫帽遮陽的。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "看在魏之遠如此堅持，魏謙只好把所有東西準備齊全出發前往釣魚。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "至於最後魏之遠是不是真的乖乖在岸上，我們就不得而知了，只知道回來之後魏謙又再次感冒套餐全都來。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "【END】",
               "href": null,
               "bold": false,
               "italic": false,
