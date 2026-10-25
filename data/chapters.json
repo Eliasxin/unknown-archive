@@ -1,5 +1,2452 @@
 {
   "site": "UNKNOWN — 關於未知的我們",
-  "updatedAt": null,
-  "chapters": []
+  "updatedAt": "2026-10-25T19:26:41.950129+00:00",
+  "chapters": [
+    {
+      "work": "serial",
+      "slug": "separate",
+      "title": "無法抵抗的本意",
+      "subtitle": "Separate",
+      "chapterNumber": 1,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙那彷彿是智障型手機的智慧型手機，總算用到了除了打電話傳訊息以外的功能：萬國時鐘。無論在手機桌面、在待機畫面都設有台北與西雅圖的時鐘捷徑，但為什麼？",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "當魏謙修改論文改到心浮氣躁正看著兩地不同時間的時鐘時，突然一通FaceTime打了過來，魏謙急忙點開並迅速故作鎮定的回應：「到了？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「剛到，也取到車了，正開去宿舍的路上。哥你在乾嘛？怎麼這麼快就接起來，今天不是要和教授討論研究方法怎麼修嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠戴著耳機，邊開車邊對著鏡頭另一邊的魏謙疑惑的問著。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "至於為何魏之遠現在會在美國，這就要回歸到前幾個月魏之遠主導了一項華盛頓大學主動的公路狀況預判系統，透過人工智慧與天氣、現場車況等狀態演算出一套模型，使用路人能更加精准的掌握路況，而這樣研究當初會找上魏之遠主要是他在學校時的教授也是這計劃的其中一人，也得知魏之遠與她朋友們開發的公路遊戲做得有聲有色，所以向團隊力推魏之遠的團隊，讓他們來協助技術開發。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一開始收到這項邀約的時候魏之遠十分驚喜也十分感謝，特地在西雅圖中午時間致電給教授表達感謝之意，並且在打電話前就火速擬好一份規格書傳給教授，並與教授兩人在電腦前面興奮的討論著，直到教授需要去忙其他事情時，兩人才掛上電話，而魏之遠也把方才討論的內容修改了第二版規格書，傳給教授外也傳給同伴和公司內部預定要負責這項計劃的專案經理。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "原本教授與魏之遠預期遠端作業可以三個月就完工，但沒想到拖到快八個月還沒有突破瓶頸，於是魏之遠直接親自飛往美國與教授直接就著數據和參數面對面一一調整，希望能趕上年中在拉斯維加斯舉辦的Ai4上發表。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "原本魏之遠是想要讓魏謙和自己一同前往，剛好團隊的教授中也有一位是生命科學的權威，想讓自家大哥可以互動互動，但卻被拒絕了，理由是：你這次主軸是公路，與我的研究主題不同，不要浪費時間，好好專注衝進度，要不然沒有上那場學會，你這次特地去就浪費時間了。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "於是，魏之遠就一人前往美國了。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「開車？我不是讓那邊的人去接你，怎麼自己開了？」，聽到自行開車，不禁讓魏謙皺著眉看著鏡頭另一邊的魏之遠，並且另外一邊傳訊息對人留在台灣的譚於開罵怎麼安排事情。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "知魏謙者，魏之遠也，他看到遠方有星巴克得來速，隨即打方向燈減速開進去，等待點餐，「是我想要保留私人時間，像這樣邊開車邊和你聊天有助於提神和思考。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙雖仍然臉色不佳，但這番話讓魏謙的怒氣降了許多，但仍然嘴上不饒人的繼續教育不愛惜羽毛的魏之遠，「……我真不懂跟我聊天為什麼可以提神，欸不要喝冷萃，你前幾天還在胃痛，給我點Flat White feat Oat Milk。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠乖乖地照著大哥的指示，笑著向點餐窗口致歉要換品項，當店員想借機投遞寫有電話的紙條時，魏之遠早已把注意力放到魏謙身上，緩速的開往取餐區。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥，我真的沒事啦，你的存在就是我的提神飲料。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……你就嘴欠。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠看到魏謙在鏡頭那端故作鎮定但耳尖轉紅的表情，笑容燦爛到都能照亮西雅圖的陰天。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "就這樣兩人在一路上邊聊邊扯，最後魏謙看著魏之遠已經抵達公司在西雅圖就近租來充當工作室和住宿的Airbnb，多叮嚀幾句就直接掛了電話，而魏之遠並沒有馬上就進入工作模式，而是看著掛斷還沒熄滅的螢幕，上面顯示著兩人的通話時刻，心想著：怎麼辦才掛斷不到三秒就又想你了。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "對你的愛意，是我永遠無法抵抗的本意。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "wont_lonely",
+      "title": "雨的溫度",
+      "subtitle": "You won’t lonely anymore",
+      "chapterNumber": 2,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠晃晃頭，讓自己拋開這幼稚的思想，並恢復專業的人工智慧工程師，提起行李就直接踏進充當會議室的客廳，一一向提前抵達的夥伴們打招呼，並且順勢跟每一位確認最新進度後，他換了件衣服、簡單梳洗一下就開啟工作模式。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "慶幸在魏之遠抵達前，團隊已經把先前卡住的部分已經解決了一大半，現在只剩下調參的部分需要魏之遠把關，畢竟要跑這一次的模型會需要耗大量資源和時間，所以這只能讓魏之遠再三比對數據後才能進行測試，最後萬幸魏之遠看完後確認沒問題就直接執行模型運算，也讓團隊換來短短七小時的休息時間。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這一次美國出差，團隊所有人都是一下飛機就直接投入開發，完全沒有休息的時間。為了慰勞辛苦的各位，魏之遠自掏腰包請團隊去附近的Big Time Brewery喝一杯、吃一頓好的好好休息一下。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "當魏之遠踏出門時，西雅圖那過分潮濕的空氣隨著風吹向了他，他抬起頭看著灰濛濛的天空，不禁想起距離自己一萬多公里的那人，也是處於潮濕環境的地方。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不知道現在魏謙在做什麼？",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "過分潮濕的空氣隨著雨滴，滴進了魏家，這讓魏謙一醒來就感到全身痠痛無力，絲毫都不想要挪動身體一塊肌肉，當他拿起手機接著線決定變成床上馬鈴薯時，就看到這時應。該還在開會的魏之遠的電話。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥你在幹嘛？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「如你所見，耍廢。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "能從魏謙口中聽到耍廢二字讓魏之遠感到十分新鮮，使他那雙桃花眼笑到變成一條線，「你耍廢可以，不過你明天不是要交報告嗎？都做完了？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你以為我誰？你出國前就交了，所以我這段時間只要修研究方法的參數就好了。倒是你，現在不是應該要開戰略會議，怎麼有空跟我通電話？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠換隻手拿手機，另隻手用來簽著如山高的公文，「五分鐘就結束了，他們的方案行不通我讓他們快點改，拖太久了久到我都發霉了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "聽著魏之遠的抱怨，想起昨晚還收到譚于傳過來讓自己過目的策略方案，魏謙開啟文件隨手改一改後傳給魏之遠，「我才要發霉吧，又開始下雨了……你看一下剛給你的那份文件，讓他們去做參考。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠聽到關鍵字後，趕緊查詢台北的天氣，發現現在正在下雨，急忙傳訊息給位在台灣的譚于，讓他幫忙照顧一下自家大哥，否則魏謙一定會擺爛不管，直到雨季結束。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「我收到了……感謝哥，這就是我想要的方案，我已經同步給他們了。哥我剛剛已經請三胖哥帶藥過去家裡，你要乖乖吃知道嗎？」，魏之遠拿起手機認真的看著鏡頭另一邊一臉懨懨的魏謙。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哎呀囉嗦……你那邊不也在下雨？你沒事我就沒事……」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哪一樣啊，總之要記得吃喔，我晚點還會再打來確認喔，不要讓我請小寶回家喔。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "聽到魏之遠會讓魏小寶回家盯著自己，隨即提起精神回著話：「拜託別，我吃就是，你妹就是大驚小怪，我關節會被她哭的更疼。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "兩邊雖然都在下雨，但溫度、感覺都不同，不過心在一起就不再寂寞。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥，你知道嗎？每次遇到下雨天，我還是挺高興的，因為又多了一個關心你的理由。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「高興什麼，每天管我還不夠嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「對你，永遠都不夠。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "switch",
+      "title": "等一下",
+      "subtitle": "The Switch",
+      "chapterNumber": 3,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "多歸魏謙提供的參數與規格，讓模型離完工的路又更近了些，團隊把模型放著讓他執行時，一直在準備要參加研討會的簡報和資料，使整個飯廳充斥著此起彼落的打字聲，而魏之遠擔心他與魏謙有一搭沒一搭地聊天會影響他們，於是捧著電腦和手機回到自己房間，將手機架在旁邊插著電，隨性的和魏謙聊天著。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "由於這一次出差就直接待到Ai4發表完才會回來，所以很多公司的文件都是採遠端作業，若真需要紙本作業就會交給譚於或者魏謙來處理。所以當兩人天南地北聊天時，魏之遠手上也沒有閒著的一直在批改電子公文，有時候魏之遠處理到一半有問題就會拋出來與魏謙討論。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "而有時候則是魏謙在修改論文時發現有瓶頸，臉很臭的一直虐待鍵盤，被魏之遠發現後就主動提出幫忙找盲點，就這樣兩人有一搭沒一搭地開著視訊，彷彿沒有離開彼此似的，但其實兩人整整有15個小時的時差。沒有一方願意主動先掛斷，甚至離開位置去處理別的事情或上廁所都仍然讓手機繼續通著。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "由於美國這邊還在工作中，而這次去美國的員工都是長年跟著魏謙打拼過的人，所以當他們敲門叨擾魏之遠請他協助批閱或請教的時候都會發現鏡頭另外一端的魏謙，就會順勢向他們的大老闆打聲招呼，但每一個都被魏謙的毒蛇給噴的一身都是毒液，像是：",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「呦怎麼變大只了？是不是嫌自己還不夠胖所以事情做不好？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「有那個閒工夫跟我打招呼，為何不用你那巨大的腦袋想想怎麼提早結案？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "諸如此類的話頻頻發生，這讓魏之遠哭笑不得的直接示意他們趕緊離開，不要惹大魔王再噴更多毒液出來，「哥啊……你不是魏總了，你就嘴下留情吧，他們也不是故意出問題的，是參數一直配合不上，外加教授希望這一次研討會我負責發表，所以就飛過來幫忙了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙聽到魏之遠的話，嗤笑的笑了聲，「不管我是不是魏總都一樣，我之前也不是這樣教他們的，在你手下工作彷彿懶散多了，不過等等......」，不過聽到魏之遠要待到研討會結束，魏謙話鋒一轉，「我怎麼沒有聽你說過要留在那邊到年中？我只記得你只去一個禮拜不是嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠聽到魏謙的問題，瞬間愣了三秒隨即驚覺自己忙到忘了跟自家大哥報告會待在美國一段時間，急忙對著鏡頭雙手合十道歉，「抱歉哥，我也是上機前才收到教授希望我待到那時候，所以我下機就先跟三胖哥說多幫忙負擔點工作，還沒有跟你說你就打來了，但看到你太開心，我就忘了講了......。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙本來想要開罵的話，看到魏之遠如此誠實的態度下，把已經要出口的話又吞了回去，隨即開啓網頁訂購研討會時間的機票，「哼......油嘴滑舌......你研討會那時候我會飛過去，我要來好好看看我們魏總在台上的英姿。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠聽到魏謙的話驚呆不已，急忙的下意識先阻止，「等、等一下哥，你不是還要上課嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "看來魏之遠脫離學校已經夠久，完全忘記八月是放暑假的時間，聽到問題的魏謙笑了下並截圖學校行事歷給日理萬機的魏總，「放暑假了，你太久沒當學生了是嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠看到魏謙的行事歷瞬間覺得自己真的脫離太久學生生活了，都忘了還有寒暑假這回事，不過下一秒被自家大哥要來美國找自己，還要看自己上台發表的喜悅給衝掉，「這樣哥，你機票時常拉長點，我帶你去玩，公司讓三胖哥多幫忙幾天我想沒問題的。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙聽到一向對公司所有事物十分尊重、也不會麻煩別人太多的魏之遠，居然可以從他口中聽到要翹班帶自己到處去玩感到新鮮，於是隨即答應下來。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「好啊，那就等待魏導遊帶我到處玩樂了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "got_the_cold",
+      "title": "如果能夠撒下高明的謊",
+      "subtitle": "When I got the cold",
+      "chapterNumber": 4,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "得知自家大哥要特地飛來看自己的發表後，魏之遠更加賣力且專注的在模型調整的事情上，除了吃飯睡覺外，都在飯廳與團隊成員一起討論該如何把模型做出更好的狀態，除此之外為了讓參數更加貼切使用情境，魏之遠也常常跑去華盛頓大學裡的實驗室與教授討論解決辦法。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「我覺得這模型的調參需要再做更多測試，否則我們距離成功還有一大段距離。」\n「可是教授，若要還要再做更多測試，時間會趕不上......。」\n「遠，我們這個不是為了上架販售而做，而是為了跨時代的改革而去做的努力，這個我記得我當年接受你成為我研究生時就有提過了對吧？」\n「……有，我還記得......抱歉教授，我因為太想要趕上發表而把重點放錯了。」\n「哈哈哈沒事沒事，我知道你因為你大哥會來看你發表，所以急了吧？我也很想趕上發表，畢竟我真的很好奇當年你一直心心念念的人長怎麼樣呢。」\n「教授您就別虧我了......。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "年近花甲的教授，看到自己得意門生難得吃鱉的模樣不禁哈哈大笑，爽朗地拍了拍一了臉被戳中心思而正害羞尷尬的魏之遠，畢竟當年怎麼逗這一臉都是那個面癱的魏之遠都是那一號表情，結果沒想到這次回來整個人氣場都變了，也變得開朗許多，這讓教授十分好奇當年常常在自家學生口中的大哥到底是何方神聖，可以讓一個人轉變這麼大。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "想到還有事情的教授，直接把魏之遠留在原地，自己隨即離開去忙。而難得獲得了一點空閒的魏之遠，正好碰上華盛頓大學的招牌美景，於是放下背包直接躺了下來觀賞這美麗的粉色花海，也拿出手機拍了好幾張丟到群組分享給家人們。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "傳送出去後，魏之遠看著手錶想著這時魏謙應該還醒著，於是直接打了FaceTime過去給魏謙，卻沒想到都沒有回應，於是魏之遠則打電話給這時候沒有通告宅在家的魏離離，「喂？小寶，大哥人呢？他怎麼沒有接電話？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「喔二哥，大哥喔......我要跟你告狀，大哥昨天晚上電風扇開超強，所以今天早上華麗麗的發燒了......我就要說！誰叫你每次都不聽！」隨著魏離離在電話裡這邊跟魏之遠告狀，背景音還伴隨著魏謙帶著沙啞的聲音對著魏離離怒吼不要告狀。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠聽得頭痛的捏了捏鼻樑，思考著出國前家中還有些什麼可以治感冒的東西，「小寶，冰箱裡有我榨好的檸檬原汁冰磚，妳拿兩顆出來解凍，並且把冷藏壓縮罐裡的生薑汁用中湯匙舀兩湯匙，之後倒溫水進去攪和給大哥喝。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏離離照著魏之遠的遠端操作用好飲品，塞給想要過來搶過手機的魏謙，「大哥你乖乖喝這個，我跟二哥還沒告狀完。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙敢怒不敢言的捧著檸檬薑汁水慢慢喝著，若眼神能殺人，或許魏謙已經把魏離離殺個千刀萬剮了。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「小寶，告狀的事情晚點再用Line跟我說，妳這幾天我記得沒有通告都在家對吧？剛好冰箱有用好的調理包，妳跟大哥就一天用一包，然後每一次都記得幫我加點生薑水進去，這樣對大哥的感冒比較快好，妳也不會因為照顧大哥而被傳染感冒了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠急忙的透過網頁緊急又訂了些食品，並且提醒魏離離要幫忙收，並且要乖乖按時吃，否則女明星因為感冒而耽誤了工作，不是這兩位哥哥的本意。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「好啦二哥，你安心的在美國好好衝刺研討會發表，家裡有我照顧大哥，也有三胖哥照顧我，沒事啦~」\n「好，有什麼事情隨時打給我知道嗎？」\n「好~二哥掰掰~我把電話給大哥，他好像有很多話要跟你說。」\n「我想是要罵人的話吧......」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠無奈地聽著魏離離說魏謙有話要說，於是耐心的等待電話換人聽，並且第一句就無奈地說：「哥就跟你說怕熱就去我房間睡，你那邊不通風啊......」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「少囉唆，你安心的開發模型，我會完好如初健康的去找你。」\n「嗯，我知道了，哥在掛電話前，陪我一起看下櫻花吧？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠聽著魏謙沙啞的聲音不禁心疼了下，為了不讓魏謙再說更多話，於是將鏡頭轉至後置鏡頭，讓魏謙與魏離離與自己看眼前這片美麗的櫻花。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "無論我身在何處，你的消息無論再給我更高明的謊言，我仍然會知曉真相也會心疼你。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "here_i_am",
+      "title": "賭賭看可能性也不錯",
+      "subtitle": "Here I am.",
+      "chapterNumber": 5,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "在魏離離和譚于的監督下，在梅雨季節快結束前，魏謙總算養好他的感冒，而關節發炎的部分也好轉許多，於是魏謙決定最後一科期末考考完之後，行李收一收，拿著機票就飛往美國。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不過這時的魏之遠完全沒有收到魏謙要去找他的確切時間，因為距離送件時間只剩不到一個月，整個團隊都在緊鑼密鼓的測試及收尾，魏之遠連抽出五分鐘與魏謙閒話家常都沒有，只能用一則則有時差的訊息讓魏之遠短暫慰勞他因連日以來高速運轉腦袋而疲勞的神經。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「這裡不應該這樣設定吧？」\n「要這樣設定最後結果才會對啊！」\n「不是就應該要這樣設定才對。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "因為時間一分一秒的流逝，但一直沒有一個很好的結果出來，使得整個團隊的氣氛越來越凝重，每日在討論的時候都會有零星的紛爭，這使平常都是好脾氣待人的魏之遠也免不了心浮氣躁了起來。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……你們別吵了，現在吵這些有用嗎？」\n「不是啊遠，是你們的人在亂改設定導致最佳超參數一直沒有達到預期的數值啊。」\n「誰亂改設定？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "一道不屬於現場所有人的聲音突然插了進來，讓原本吵到亂作一團的飯廳，瞬間鴉雀無聲，全體眼光同步朝向聲音來源，沒想到來人確認魏謙，這讓全體都傻愣在原地。而身為魏謙向日葵的魏之遠馬上回過神來上前接過魏謙的行李。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥你怎麼沒跟我說一聲你就跑來了？」\n「我看你忙成這樣，想說就不說了，反正我也放假了提前過來看有沒有辦法幫忙，不過看來我來的還真是時候？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙意有所指的看著凌亂的桌面以及一觸即發的場面，再轉頭看著魏之遠。接收到自家大哥的訊息後，魏之遠嘆了口氣，直接將手中的平板遞給大哥，而自己則乖乖的將行李拿到自己房間。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "當魏之遠回到飯廳時，整個進度有條斯理的進行著，大哥拿著平板將疑點一個一個的去擊破，那姿態讓魏之遠彷彿回到魏謙還是魏總時期的模樣，只是差別在於現在的魏謙給人沒有像以前一樣銳利，而是一步一步的去引導團隊導向最佳解模型的誕生。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你這個應該要多加個判斷，這樣參數才會吃進去。」\n「這個要刪掉，否則根本沒辦法往下去。」\n「你這低級錯誤要錯到什麼時候？從我帶你開始就一直犯，你要不要回去學校進修？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠捧著咖啡倚靠著柱子看著魏謙認真的模樣，不管看幾次都不膩，或許他的眼神過度炙熱，使魏謙抬起頭來與其對視，並給予一個別鬧的眼神給魏之遠後就又繼續忙著調整模型。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這時自己在大學時期很好的研究室同事一臉八卦的湊了過來，「欸遠，這位該不會就是你哥吧？也太好看了吧？而且他每個觀點都正中紅心欸，進展超快，我看下禮拜就有辦法完工了我想。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「嗯，就是他，他的厲害無人能敵，我不及他的十分之一。」\n「哇喔......那我可以要他的聯絡方式嗎？好想挖角他來跟我一起幫老闆做研究，這樣就可以偷懶了。」\n「我手上這咖啡還燙的，想不想用它洗臉？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠作勢要將手中咖啡潑向自己好同事時，被魏謙的到來給阻止了，還給了個略微兇狠的眼神，「小遠別鬧，禮貌呢？嗨初次見面，我是遠的哥哥，叫我謙就好。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥哥好，我可不敢叫你謙，我會被你弟給殺了，叫你哥哥就好，感謝哥哥來幫我們，讓我們進度加速很多，真的大感謝！我休息夠了我該回去忙了，你們慢聊啊！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠無語的看著好同事就這樣跑開，轉頭看著一臉玩味的表情看著自己的魏謙，「你幹嘛用這個臉看我？我都還沒有問你怎麼就這樣跑來了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「我不是說我放假就會過來？是你太沒注意時間了，總之別管了，我在這邊了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不用擔心，我已在這，無論多艱難的問題，我都會與你一起面對。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "listen_my_voice",
+      "title": "聆聽你的聲音，呼喚我的名字",
+      "subtitle": "Listen to my voice",
+      "chapterNumber": 6,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「請提供你們的產品優於現有最強的導航商品Google Map的三項功能。」\n「我們會結合氣象資訊，在每次使用者輸入完目的地後，評估路途上所有的氣候，給予最佳的導航路線，除此之外我們會即時更新因天氣災害而導致的交通意外，讓使用者在行徑途中能即時修改路線，避免被突然的意外耽誤了重要行程......」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "因為魏謙的加入，使模型順利的完工，也把所有的應用情境也準備妥當，現在剩下的就是答辯問題需要準備及演練，於是魏謙就和魏之遠的教授一起集中火力根據模型的屬性擬定了大量的問題讓魏之遠準備與回答，並且讓其他成員跟著隨時準備相關簡報與資料，以利各種狀況發生。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "終於來到了Ai4 2024舉辦的這一刻了，但每個人並沒有因此而放鬆，當看到自己的專題名稱列在議程中，每個人都神經緊繃、嚴陣以待，畢竟這是大家這一年多以來的心血結晶，也是人工智能領域裡一項大突破，這讓魏之遠和教授都興奮不已。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "由於因時程關係，所以魏之遠特地請主辦方將他的主題放在第一天的最後一組，而在這之前魏之遠則是為了放鬆心情則拉著魏謙到Hell’s Kitchen吃一頓好吃的，而正當兩人點完餐聊天時，一道濃厚的英國口音從遠處喊了過來，「遠！怎麼來了都不說一聲，讓我親自招待你啊！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「嘿高登，會不跟你說是因為我也不確定這次會不會上啊，到時候沒有上不就糗了？而且這次還帶我哥來，總不好讓你為了我們而忙碌吧？」\n「喔你真的見外了，你幫我做的系統我真的很喜歡，而且還只拿工本費，隨時有問題還都有問必答，這樣的恩我怎麼還都還不完啊，所以為了你和你哥哥服務，是我的榮幸！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙坐在一旁安靜的看著魏之遠與遠近馳名的高登·拉姆齊 aka. 地獄廚神這麼熟，不禁又開始好奇自家弟弟在這四年間都幹了些什麼，也不禁幻想了起來自己其實根本沒那麼厲害，在魏之遠面前還常常顯擺自己的能力，這豈不是在關公面前耍大刀？",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "在魏謙還沈浸在自己的世界裡時，魏之遠正在和高登介紹自己，直到魏之遠略微擔憂地看著並且伸手拍了拍肩，魏謙才回過神，「嗯？怎麼了？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥，你確定不回飯店休息？」\n「我沒事，我只是在想事情，怎麼了？」\n「沒有啦，是我在跟高登介紹你，想說你怎麼沒反應。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙面露歉意地伸出手與高登握手言歡，「真不好意思拉姆齊先生，是我失禮了。我們家小遠之前受您照顧了，十分感謝您。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「喔請別這麼說謙先生，我們在遠的幫忙下，成功了把我旗下眾多餐廳的系統都統整再一起，讓我和我的團隊在管理上更加的方便，不過這小子居然只跟我收工本費，在那之後還常常幫我維護系統，真的不知道是不是你們東方人都這麼的客氣嗎？」\n「我想，應該只是小遠這個個案而已，以我對他的瞭解，他覺得這些事情都是鍛鍊他的專業度，以及他並不是正式被你雇用的員工，外加他覺得這對你很重要，所以才會出手幫你做這些，我說的對吧？小遠。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠光聽著魏謙在高登面前自豪地稱讚自己的模樣，心就已經不知雀躍到哪裡去，絲毫沒有察覺魏謙在問著自己，直到魏謙暗自踩了下腳才回過神來，「喔、喔對！哥說的沒錯，畢竟那時候我還只是研究生，高登你卻信任我讓我幫你開發這些，我當然只會收工本費啊，真的不用放在心上啦，不過之後你新開的餐廳，記得幫我留個四人訂位倒是真的。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哈哈哈！那有什麼問題，今天這一頓我來請客，就當作謙先生遠道而來的禮物，以及謝禮吧！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "看在高登如此堅持的份上，兩人就接受了這一頓突如其來的美食。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥，你知道你剛剛在高登面前那樣誇獎我還用英文說我的名字，我真的差點想要撲上去親你。」\n「……你若真的這樣做，你只會被我踹出餐廳，然後餓著肚子準備下午的發表。」\n「所以我沒有做，只有想，實際行動只會是晚上的時候。」\n「……看你這樣還敢不敢說下去！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙不再理會魏之遠突然的調情，直接插了一塊牛排塞進魏之遠嘴裡，堵住他那張再說下去會出事的嘴，而到吃完之前，魏謙的臉都一直紅通通的，不知是因為喝了紅酒，還是因為魏之遠有意無意的撩撥。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "經過在地獄廚房的意外插曲，讓魏之遠減少不少的緊張，而魏謙也休息充足，兩人準備前往此次美國行的最後戰役。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「……以上是我的報告，感謝各位的聆聽，我也要感謝我的團隊，與我們整個企劃的領導人，也是我的伴侶，謙。若沒有他們，我想我無法站在這邊與各位分享這如此棒的產品，那麼以下開放問答。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙原本只是閉上眼用聽的來確認魏之遠這次的報告狀態，沒想到最後居然提到了自己還用伴侶這個稱謂來呼喚介紹自己，這還是在一起後第一次聽到他這樣說，聽到的瞬間魏謙忽地睜開眼並且用困惑的眼神看向台上的魏之遠。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "或許是有感應到魏謙的視線，正回答問題的魏之遠用安撫的笑容回應魏謙，並且示意稍後會給令他滿意的答案。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "當我正安靜的聆聽著你的聲音來數心拍數時，卻意外聽到你呼喚著我的名。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "stay_with_you",
+      "title": "譬如說與你",
+      "subtitle": "Stay with you",
+      "chapterNumber": 7,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這一次的專案獲得全場掌聲，事後專家問答環節魏之遠也獲得許多公司的橄欖枝，都希望進行投資或者希望能獲得這產品的獨家專利權，但通通都被魏之遠用三兩撥千金的方式給收了下來但也沒有婉拒，都一律表示要與團隊討論才會給予回應。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙在台下看著魏之遠受到各界的關注，十分的欣慰不過身為公司的高層之一正事還是要做，他轉頭就打電話給小菲讓她吩咐法務組的人擬了份產學合作協議書並且兩小時後傳到魏之遠和他教授信箱裡，並且讓譚於準備好要拓展美國市場需要用到的文件以及小組，至於在美國的員工就原班人馬繼續留在美國即可，其他相關費用公司全部處理，畢竟這個專案在美國初發表就大受歡迎，身為前生意人的魏謙對於金錢的敏銳度還是有，於是完全不等魏之遠就直接動手處理。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你們等等回去先收拾行李，然後和Welson教授討論之後地點是要繼續在西雅圖還是回紐約。」魏謙偏頭小聲與團隊成員囑咐著稍後回宿舍的事情，這讓他們滿臉問號的回看前老闆，看到一群還在狀況外的員工，魏謙無奈地伸手敲了下離自己最近的一人，「這專案公司會接續把它產品化，你們就繼續留在美國接續做下去，至於住宿和公司地點要等小遠和Welson教授討論未來發展才能知道要在哪裡。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「魏董，這......？」雖然魏謙如此突然的指令已經不是第一次，但大家已經習慣魏之遠的有條斯理的指令，突然來個魏謙下達指令，讓大家瞬間愣了好幾秒，但因都是元老員工，於是馬上回過神來把在美國這邊會需要準備的文件都趕緊準備好，也將西雅圖與紐約兩地適合的房子與車子都準備好，就等待魏之遠和Welson教授討論。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "當魏之遠和Welson教授結束專家問答後，回到位置還沒坐下就被魏謙突然對著Welson教授說明未來合作方向感到疑惑，但也不超過三秒就隨即恢復正常，畢竟就這熱門度以魏謙那腦袋一定會想要吃下專利權，不可能拱手讓人去做，於是魏之遠就默默地喝著水，聽著魏謙與Welson教授兩人熱烈的討論，最後兩人同時看向魏之遠，並異口同聲的問著：「你未來想在哪？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這突然的問題讓魏之遠不小心被水嗆了一大口，接過魏謙一臉嫌棄遞給自己的衛生紙，等到氣順了才回問剛剛的問題，「你們是在問未來要在哪裡作為據點嗎？看教授吧？畢竟這次只是和華盛頓大學一次性合作，若未來還要繼續開發勢必要回學校吧？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "Welson教授聽著魏之遠的話也覺得沒有問題，於是直接敲定在紐約花園城附近先租一個短期的共享辦公室，而住宿部分也在附近找間長期租賃Airbnb，直到找到適合的居住地和辦公室前，都先暫時這樣，等待總部找好適合地點也把設備進駐後再正式搬過去。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "既然專案未來發展都談定了，直到專案正式開跑前大家有一長段休息時間，魏之遠和魏謙直接讓團隊員工放有薪假，並且還自掏腰包全包這段時間他們在美國玩樂的消費，就魏謙的說法：反正我的錢也是靠他們賺來的，這點小錢給他們花又沒關係，反正沒錢還有小遠可以賺。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "大夥聽到魏謙前半段的話感動得痛哭流涕，但聽到後半段的話，還沒有流出來的眼淚硬生生的被吸了回去，眾人齊聲哀怨地喊著：魏董——！",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙無辜的看著眾人：幹嘛我說的是事實啊？好啦你們趕緊收拾收拾快點去玩，不要窩在這邊礙眼。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "正準備要繼續和Welson教授討論後續的魏謙，轉過頭來看到似笑非笑的魏之遠，魏謙突然略顯不自在的用眼神詢問魏之遠要幹嘛，魏之遠只搖搖頭並牽起魏謙的手，把玩著他一根一根修長的手指，並輕聲地拋出邀請：哥，想不想和我來個公路約會旅行呢？",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "有你在的地方，就是好的地方。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "you",
+      "title": "無法捨棄的事物",
+      "subtitle": "You",
+      "chapterNumber": 8,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥你確定要走我當年開發公路遊戲前期走過的路？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠將行李放進後車廂時，為了再三確認是不是在開玩笑的，還特地問正在副駕駛座看著合約草稿的魏謙，而已經被問到煩魏謙直接不理會，反而打起漫遊電話與譚於討論合約哪裡還有要改，以及在紐約的辦公室要怎麼安排等。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "看著完全不想理會自己的大哥，魏之遠只好默默地踏上90號州際公路的公路之旅，也是公路遊戲的最初雛形路線。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "第一站兩人來到了斯波坎，是華盛頓州第二大城市，由於當地的彩虹遊行或者自由市集的時間都過了，但魏之遠仍然為魏謙安排了當年他窮遊的遊玩方式：買一支紅酒以及兩根法國麵包，在河濱公園河畔野餐著。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你那時怎麼不用我給你的錢去吃點好吃的，反而只吃法國麵包配紅酒？」，魏謙看著手中的法國麵包略微皺眉地問著正吃得津津有味的魏之遠，這略顯責備的眼神讓魏之遠瞬間把有點大口的麵包一口氣吞了下去，害他瞬間岔到氣狂咳不已，魏謙急忙拿水瓶給他順便拍背，「欸我只是問問而已，沒有責備你的意思，你慢慢來好嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠緩了一下之後小心翼翼地開口，「當時我只想著那些錢是你辛苦賺來的錢，若我拿來玩樂吃飯，豈不是對不起你，所以我用我打工和獎學金的錢來支付我的學費和一切開銷，你的錢則是拿去投資也有不少成績，你不也看到了？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙知道魏之遠指的是現在正躺在自己名下的那幾檔交易組合，一想到就心疼眼前這男人，伸手輕蹭著魏之遠的耳蝸，用行動來表示自己的心疼，而這時魏之遠則安靜地與魏謙享受眼前美麗的自然美景。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "第二站魏之遠有點繞路，原本應該要往東邊開但他往南部開去、往賭城方向開，這讓魏謙十分疑惑，而魏之遠則是邊開邊跟他介紹周邊的景點，有時還會下車享受當地美食、參加當地的短程旅行行程，不過最終到了鳳凰城。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "當年是因為為了想要感受這世界上最孤寂的感覺，魏之遠查了點資料就直接開車到亞利桑那州，在幾個小時的開車路程中，眼睛所見的就是一片沙漠，不過夜幕漸漸降臨，沒有光害的天空佈滿了星星，這讓魏之遠決定將車子靠邊停，兩人坐在引擎蓋上仰望著天空，星星一顆一顆的數著。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥，你知道我現在最想做什麼嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「嗯？做什麼？」魏謙邊回問邊點著今日額度的菸，還沒點著就被魏之遠奪走。魏謙還沒來得及發火前，魏之遠輕吻著他的額，接著兩眼眼皮，而這搔癢般的觸感讓魏謙不禁輕笑了出來。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「你貓嗎？怎麼突然吻起來了？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠不開口回應，反而繼續用吻做為回應，他吻著每次看到時就想到自己這一生最痛的地方—魏謙左邊的斷眉，那邊在每次兩人溫存時，魏之遠都會在那邊逗留許久，好似這樣會讓長不出來的地方長出胎毛似的。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥你知道你全身上下都讓我疼惜，每處傷都令我心痛，但沒關係，我來療癒你，用每一次我的吻來療癒受傷的你。」\n「……你小子不要留痕跡我就謝天謝地了，還療癒我的傷？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "完全清楚自家大哥零浪漫細胞的腦，原本很認真的魏之遠瞬間笑了出來，直接胡亂的在魏謙的鼻尖、眉心各種地方吻著，讓兩人就這樣笑了出來，還不小心玩到讓車子安全系統響了起來，這才停止嬉鬧。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "就這樣，兩人一路上邊嬉鬧邊遊玩的開到了東岸，也到了紐約魏之遠在學校時間時租的房子，會繼續留著是因為魏之遠當年是做了可能會被趕回美國的準備才繼續繳交房租，不過沒想到卻這樣留了下來，這次還帶著自己的心上人踏進自己的租屋處。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠看著魏謙環顧著房子內的背影，不禁想著：我終於帶你來到了當年我從0建立起的堡壘，我不怕你看，我只怕你因此而離我遠去。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不知是不是感知到魏之遠的想法，魏謙轉身將魏之遠攬入懷中，輕拍著他的背，徬彿在安慰著當年難過的、受傷的魏之遠，這讓原以為已不在意的魏之遠因這安撫而泣不成聲。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "沒關係，再沈重的傷口，都會有痊癒的一天。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "by_your_side",
+      "title": "那是一直在這裡的",
+      "subtitle": "I’m always by your side",
+      "chapterNumber": 9,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "隨著兩人抵達紐約，產學合作的合約書以及辦公室和宿舍的清單也同步傳到兩人信箱裡，使兩人只有休息一天之後就分頭忙碌。魏之遠負責產學合作案的後續文件流程，至於魏謙則是就著譚於寄給自己的候選名單一一親自去看、去訪察，最後在30 Hudson Yards買下一層作為集團在美國的據點，後續的設備什麼的魏謙讓當年自己一手帶出來的徒弟 —— Mike去全權負責，而魏謙只有唯一原則：效益最大化。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "看好了辦公室後，魏謙在廣場附近的咖啡廳外帶了杯咖啡和可頌後就隨即開始看起宿舍，從上城區到中城，甚至還跨了哈得遜河到另外一頭看，最後深得他心的反而是下城區西村的一棟獨棟四層公寓，正好屋主要移民到芬蘭要將房子脫手，正好也符合魏謙的需求，於是大筆一揮的直接買了下來。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "正當魏謙還在跟屋主閒話家常時，魏之遠把產學合作案的合約簽完也傳回總公司就來西村找尋魏謙，並且當個乖巧弟弟在魏謙身邊聽著兩人的對話，最後屋主還要趕飛機於是就將鑰匙託付給魏謙，感謝他在最後一刻買下房子，讓他毫無懸念地離開紐約。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「哥，怎麼都不問我就直接買了辦公室和宿舍？而且連我現在住的那個也買了？」魏之遠像個跟屁蟲一樣跟在正在屋內檢查屋況的魏謙身後問著，魏謙嫌他麻煩完全沒有想要理會他的意思，邊喝著咖啡邊思考著整棟房子要如何規劃及如何收租金等。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠看著曾經的魏董回歸，只好乖乖的坐在階梯上拿著電腦修改著總部傳來需要魏之遠修改的文件內容，並且賭氣的等著魏謙看完整棟房子。也因為魏之遠正賭氣著，所以魏謙看完最頂樓的房間下樓時，就看到一隻氣鼓鼓的刺蝟坐在樓梯間擋住他要下樓的通道，這讓魏謙感到好氣又好笑。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「魏之遠小朋友，請問你坐在這邊要做什麼呢？」\n「坐在這邊堵住一個擅自作主亂花錢的壞蛋。」\n「喔？那個壞蛋是誰？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙笑著坐在比魏之遠高幾階的地方撐頰低頭看著不願回頭看向自己的魏之遠，繼續用話語逗弄著自家弟弟，但沒想到沒幾句魏之遠就破功了，「哥！幾歲了那麼幼稚幹嘛！」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「是你先幼稚的，辦公室本來就是要用最好的，住宿也是，這邊總共有九間公寓，正好團隊八個人，而你就住你原本的那間就好，若你需要在這邊留宿，剩下一間就給你用，或者當作客房也可以，都行，反正這點錢哥還有，車子的話就讓你三胖哥幫你們買個兩台輪著用，這事聽我的，乖。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏謙拍拍魏之遠的頭，並且難得用寵溺的眼神看著已經比自己高許多的他，感慨地想著自己之前為何那麼的不知足要把這麼優秀的人送離自己身邊，不過四年過後各方面都變得更優秀，自己再也追不上的優秀，這樣也不賴，最後還是屬於自己的。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "正當魏之遠覺得奇怪正想要開口時，魏謙為了掩飾害羞，直接撥打電話給正住在飯店的團隊成員們，「你們現在馬上立刻退房到我傳給你們的地址來，之後就住這了。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "不等回應魏謙就直接掛了電話，並且拿出手機開啟外送APP幫所有人點外送，作為新家的第一餐，也是順便慶祝團隊成功在美國正式插旗，完成一個新的里程碑。而這些看在魏之遠眼裡，就會覺得自家大哥真的優秀到自己無法比，怎麼追、怎麼跑都跟不上這個優秀的男人。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "我何德何能可以愛上並擁有這麼優秀的男人呢？",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠以為自己的心聲只有自己知道，卻沒想到就不小心脫口而出，也引來魏謙無奈的捏鼻處置並說著：我永遠是你的人，而我永遠會在你身邊。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "work": "serial",
+      "slug": "love",
+      "title": "喜歡你",
+      "subtitle": "Love",
+      "chapterNumber": 10,
+      "cp": [
+        "魏之遠 x 魏謙"
+      ],
+      "ageRating": "一般",
+      "chapterType": "連載",
+      "publishedAt": "2026-10-25",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「我這一生的軌跡，用魏謙兩個字就能貫徹始終了。」\n「如果沒有小遠，一輩子都不會玩世不恭，也學不會單純的做喜歡的事，隨著年紀增長也再沒有人需要自己不眠不休地背負著沈重的責任去拼命，原來，小遠是自己的終點。」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "—",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "在諾大的世界里，能找到彼此是何等幸運的事情。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這是魏之遠在一旁角落喝著可樂看著在人群中與人交際著的魏謙時想到的一句話，畢竟若不是魏謙當年的施捨、小寶當年的心軟，自己恐怕早已死在某條不知名的巷子里，更不用想能有今天這成績，還可以牽著自己這一生的摯愛。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "由於魏謙因為研究所的事情必須要在開學前回去，否則還可以再待個一個月都沒問題，為了歡送前老闆，眾人趁著辦公室完工以及大家都入住完成，在宿舍里舉辦派對，邀請整個專案團隊的人，包含魏之遠母校的同學教授們一起同樂交流，這也讓魏謙聽到了許多魏之遠在學校的各種事跡。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "每每魏謙聽到有趣的事跡都會轉頭用揶揄的眼神看向離自己不遠處的魏之遠，這讓魏之遠開始後悔答應魏謙去邀請母校的同學和教授們了，不過看著魏謙聽著自己以前的事情如此著迷的眼神，魏之遠只好默默的繼續張羅著大家的食物和飲料，做足東道主的身份。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "最後魏謙和魏之遠一起站在門口歡送每一位特地來參加派對的朋友們，並且約定下一次魏謙到紐約時務必再約出去喝酒，聽到這邊讓魏之遠瞬間警戒起來，並認真的說：你要約我哥喝酒必須我也要在。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "只要認識魏之遠的人都知道他對於哥哥的保護欲之濃烈，於是表示一定會外帶一枚看門狗去的，放心放心。直到送到最後一人，關上大門魏之遠才變成大型趴趴狗趴在魏謙身上一動也不動地將人卡在階梯上。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "「怎麼啦？吃醋我剛剛答應要去喝酒？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "魏之遠聽了搖了搖頭，接著魏謙又問了一個：「是我明天要回去了不開心？」，魏之遠聽到這個問題，頓了一好一陣子才緩緩地點了點頭，這讓魏謙無奈地伸手拍了拍魏之遠的背，並像小時候他發燒時自己哄他睡覺時一樣輕拍他的背並說著：「你之後也就回家了，不過你要記住，我、魏謙喜歡魏之遠，所以魏之遠在哪裡，那裡就是我的家，知道嗎？」",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "這一句看似安慰的話，但對很沒安全感的魏之遠就像是一句咒語，一句安心的咒語，使他能平靜地送魏謙到機場，以及平靜的繼續主持在美國的專案。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "runs": [
+            {
+              "text": "因為他知道，魏謙在的地方也是他的家，他的心就是魏之遠的家。",
+              "href": null,
+              "bold": false,
+              "italic": false,
+              "underline": false,
+              "strikethrough": false,
+              "code": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
